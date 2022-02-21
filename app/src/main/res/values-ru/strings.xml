@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">лаб5</string>
+    <string name="name">имя</string>
+    <string name="total_records">всего элементов</string>
+    <string name="found_records">найдено элементов</string>
+    <string name="surname">фамилия</string>
+    <string name="comment">коммент</string>
+    <string name="save">сохранить</string>
+    <string name="cancel">отменить</string>
+    <string name="title_user">пользователь</string>
+    <string name="title_comment">комментарий</string>
+</resources>

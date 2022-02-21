@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">lab5</string>
+    <string name="name">name</string>
+    <string name="total_records">total_records</string>
+    <string name="found_records">found_records</string>
+    <string name="surname">surname</string>
+    <string name="comment">comment</string>
+    <string name="save">save</string>
+    <string name="cancel">cancel</string>
+    <string name="title_user">title_user</string>
+    <string name="title_comment">title_comment</string>
+</resources>
